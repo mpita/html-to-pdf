@@ -1,0 +1,10 @@
+venv
+env
+.env
+migrations
+*.pyc
+__pycache__
+media
+.idea/
+staticfiles
+*.log
